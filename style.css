@@ -1,0 +1,32 @@
+ h1 {
+ font-size: 2em;
+  }
+ .name{ 
+  color: purple;
+}
+body { 
+  font-family: sans-serif;
+  color: gray;
+  line-height: 26px;
+  background-color: skyblue;
+}
+.web{
+  width: 50%;
+  float: left;
+}
+img { 
+  width: 50%;
+  padding-left: 25px;
+}
+.link{
+  color: white;
+  background-color: orange;
+  padding: 13px 42px 13px 42px;
+   border-radius: 20px;
+   text-decoration: none;
+   float: left;
+   }
+ .top banner{
+ padding-left: 25px;
+ display: inline-block;
+ }
